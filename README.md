@@ -52,7 +52,9 @@ Open another terminal
 ```
 
 
-## Part 1 Video
+## Part 1 Visualise scan data using Rviz (turtle bot)
+
+<img width="1344" alt="Screenshot 2023-04-02 at 16 33 59" src="https://user-images.githubusercontent.com/129572935/229339332-1442384f-5ff3-40e8-9f12-5ee26531365b.png">
 
 
 ## Part 2 Video
