@@ -1,0 +1,30 @@
+[0.383s] Invoking command in '/home/bryan/ros2_workspace/src/hello-ros': PYTHONPATH=/home/bryan/ros2_workspace/build/hello-ros/prefix_override:/home/bryan/ros2_workspace/install/hello-ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello-ros build --build-base /home/bryan/ros2_workspace/build/hello-ros/build install --record /home/bryan/ros2_workspace/build/hello-ros/install.log --install-scripts $base/lib/hello-ros --single-version-externally-managed
+[0.497s] running egg_info
+[0.498s] creating ../../build/hello-ros/hello_ros.egg-info
+[0.498s] writing ../../build/hello-ros/hello_ros.egg-info/PKG-INFO
+[0.498s] writing dependency_links to ../../build/hello-ros/hello_ros.egg-info/dependency_links.txt
+[0.498s] writing entry points to ../../build/hello-ros/hello_ros.egg-info/entry_points.txt
+[0.499s] writing requirements to ../../build/hello-ros/hello_ros.egg-info/requires.txt
+[0.499s] writing top-level names to ../../build/hello-ros/hello_ros.egg-info/top_level.txt
+[0.500s] writing manifest file '../../build/hello-ros/hello_ros.egg-info/SOURCES.txt'
+[0.518s] reading manifest file '../../build/hello-ros/hello_ros.egg-info/SOURCES.txt'
+[0.519s] writing manifest file '../../build/hello-ros/hello_ros.egg-info/SOURCES.txt'
+[0.519s] running build
+[0.519s] running build_py
+[0.519s] creating /home/bryan/ros2_workspace/build/hello-ros/build
+[0.519s] creating /home/bryan/ros2_workspace/build/hello-ros/build/lib
+[0.519s] copying publisher.py -> /home/bryan/ros2_workspace/build/hello-ros/build/lib
+[0.519s] copying subscriber.py -> /home/bryan/ros2_workspace/build/hello-ros/build/lib
+[0.519s] running install
+[0.520s] running install_lib
+[0.520s] copying /home/bryan/ros2_workspace/build/hello-ros/build/lib/subscriber.py -> /home/bryan/ros2_workspace/install/hello-ros/lib/python3.8/site-packages
+[0.520s] copying /home/bryan/ros2_workspace/build/hello-ros/build/lib/publisher.py -> /home/bryan/ros2_workspace/install/hello-ros/lib/python3.8/site-packages
+[0.520s] byte-compiling /home/bryan/ros2_workspace/install/hello-ros/lib/python3.8/site-packages/subscriber.py to subscriber.cpython-38.pyc
+[0.521s] byte-compiling /home/bryan/ros2_workspace/install/hello-ros/lib/python3.8/site-packages/publisher.py to publisher.cpython-38.pyc
+[0.521s] running install_egg_info
+[0.522s] Copying ../../build/hello-ros/hello_ros.egg-info to /home/bryan/ros2_workspace/install/hello-ros/lib/python3.8/site-packages/hello_ros-0.0.0-py3.8.egg-info
+[0.523s] running install_scripts
+[0.534s] Installing publisher script to /home/bryan/ros2_workspace/install/hello-ros/lib/hello-ros
+[0.535s] Installing subscriber script to /home/bryan/ros2_workspace/install/hello-ros/lib/hello-ros
+[0.535s] writing list of installed files to '/home/bryan/ros2_workspace/build/hello-ros/install.log'
+[0.547s] Invoked command in '/home/bryan/ros2_workspace/src/hello-ros' returned '0': PYTHONPATH=/home/bryan/ros2_workspace/build/hello-ros/prefix_override:/home/bryan/ros2_workspace/install/hello-ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello-ros build --build-base /home/bryan/ros2_workspace/build/hello-ros/build install --record /home/bryan/ros2_workspace/build/hello-ros/install.log --install-scripts $base/lib/hello-ros --single-version-externally-managed
